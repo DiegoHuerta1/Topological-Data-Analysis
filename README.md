@@ -30,7 +30,7 @@ Note that all of these words have 4 letters. Due to this, the Hamming distance i
 
 
 
-## Homological Persistence of Digits
+## Persistent Homology of Digits
 
 The homological persistence of point clouds representing digits from 0 to 9 is visualized. For the visualization of persistence, both the barcode and persistence diagram are generated.
 
